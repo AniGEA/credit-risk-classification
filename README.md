@@ -6,9 +6,9 @@ This challenge involves using various machine learning techniques to train and e
 
 ## Dataset Location
 
-[Download lending_data.csv](credit-risk-classification/Credit_Risk/lending_data.csv)
 
-The dataset used in this analysis is stored in the Credit_Risk directory. The file is named [Link Text](credit-risk-classification/Credit_Risk/lending_data.csv
+
+The dataset used in this analysis is stored in the Credit_Risk directory. The file is named [lending_data.csv](credit-risk-classification/Credit_Risk/lending_data.csv)
 
 The dataset consists of a 77536-line CSV file.
 
